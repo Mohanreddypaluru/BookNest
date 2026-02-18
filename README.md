@@ -118,13 +118,6 @@ https://drive.google.com/drive/folders/12JIZvxFrGFhDZMTThpPQlmkHG27rP71K?usp=sha
 
 📖 **Happy Reading with BookNest!** 📖
 
-## 🌐 Live Preview
-https://book-nest-smart-bridge.vercel.app/
-
-
-
-https://github.com/user-attachments/assets/7ea4997c-4654-43d3-93d8-599fe7987d71
-
 
 
 ## 📸 Screenshots
@@ -148,7 +141,7 @@ https://github.com/user-attachments/assets/7ea4997c-4654-43d3-93d8-599fe7987d71
 
 ```bash
 # Clone the repo
-https://github.com/LEKKALA-BHASKAR/BookNest-SmartBridge.git
+https://github.com/Mohanreddypaluru/BookNest.git
 cd BookNest-SmartBridge
 
 # Install dependencies
@@ -156,5 +149,6 @@ npm i
 
 # Start the development server
 npm run dev
+
 
 

@@ -114,7 +114,7 @@ Meet **Sarah**, a busy professional and avid reader who struggles to find time t
 ---
 # Google Drive Link :
 
-https://drive.google.com/drive/folders/12JIZvxFrGFhDZMTThpPQlmkHG27rP71K?usp=sharing
+https://drive.google.com/file/d/1UDU7YBGXT06BF6e6TkZyvS2jSqaPC98m/view?usp=sharing
 
 📖 **Happy Reading with BookNest!** 📖
 
@@ -149,6 +149,7 @@ npm i
 
 # Start the development server
 npm run dev
+
 
 
 

@@ -123,8 +123,6 @@ https://drive.google.com/file/d/1UDU7YBGXT06BF6e6TkZyvS2jSqaPC98m/view?usp=shari
 ## 📸 Screenshots
 
 ![Screenshot 2025-06-14 215456](https://github.com/user-attachments/assets/0d9e43ac-5c37-4d0c-8982-7653eb9a3a79)
-![Screenshot 2025-06-14 215548](https://github.com/user-attachments/assets/b3472740-bfe0-4f43-9411-fe6b446c64ed)
-![Screenshot 2025-06-28 114610](https://github.com/user-attachments/assets/ac463639-3f61-4a7e-bff8-791049c93370)
 ![Screenshot 2025-06-28 114628](https://github.com/user-attachments/assets/6ef8d1ac-a9c7-452c-85c1-af9a82960e86)
 ![Screenshot 2025-06-28 114643](https://github.com/user-attachments/assets/d1435016-9092-4fa8-84d0-8918b7f8a296)
 ![Screenshot 2025-06-28 114700](https://github.com/user-attachments/assets/5437e210-e146-4106-9899-724b4ffedd29)
@@ -149,6 +147,7 @@ npm i
 
 # Start the development server
 npm run dev
+
 
 
 

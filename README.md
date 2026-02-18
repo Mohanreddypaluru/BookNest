@@ -118,10 +118,5 @@ https://drive.google.com/file/d/1UDU7YBGXT06BF6e6TkZyvS2jSqaPC98m/view?usp=shari
 
 📖 **Happy Reading with BookNest!** 📖
 
-## 🌐 Live Preview
-https://book-nest-smart-bridge.vercel.app/
-
-
-
 https://github.com/user-attachments/assets/7ea4997c-4654-43d3-93d8-599fe7987d71
 
